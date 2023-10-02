@@ -2,9 +2,9 @@
   "name": "webapplication2",
   "version": "1.0.0",
   "description": "This application displays text on the screen",
-  "main": "webapplication.js", 
+  "main": "webapplication2.js", 
   "scripts": {
-    "start": "node webapplication.js" 
+    "start": "node webapplication2.js" 
   },
   "author": "Olivia S",
   "license": "MIT"

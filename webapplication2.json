@@ -1,0 +1,11 @@
+{
+  "name": "webapplication2",
+  "version": "1.0.0",
+  "description": "This application displays text on the screen",
+  "main": "webapplication.js", 
+  "scripts": {
+    "start": "node webapplication.js" 
+  },
+  "author": "Olivia S",
+  "license": "MIT"
+}
